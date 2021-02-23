@@ -1,0 +1,47 @@
+.header{
+
+}
+.header h2{
+    font-weight: bold;
+    padding: 4px 0;
+}
+
+
+.navbar{
+
+}
+.navbar ul{
+    text-align: right;
+
+}
+.navbar ul li{
+    display: inline-block;
+}
+
+.navbar ul li a{
+    display: block;
+    color: #000;
+    text-decoration: none;
+    margin-left: 5px;
+    padding: 4px 5px;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+/* column */
+.column-11{
+    background-color: #000;
+}
+.column-11 .row div{
+   
+    color: #fff;
+
+}
+.image-section img{
+    background-color: white;
+}
+.footer{
+    background-color: #000;
+    color: #ddd;
+}
+
